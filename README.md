@@ -33,7 +33,7 @@ This repository contains the architecture specifications and structural C++ API 
 ## Acquisition & Intellectual Property Transfer
 The full production repository, including untruncated C++ Source Code, MetaTrader 5 Extraction Bridge, and compilation blueprints, is available for corporate or strategic asset buyout.
 
-* **Target Valuation:** $60,000 USD *(Open to strategic cash-closing terms for accelerated transaction).*
+* **Target Valuation:** $80,000 USD *(Open to strategic cash-closing terms for accelerated transaction).*
 * **Transaction Safety:** Managed 100% via **Escrow.com** under a strict 50/50 phased milestone contract structure.
 
 ### Contact for Inquiries

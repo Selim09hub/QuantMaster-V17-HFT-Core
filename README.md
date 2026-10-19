@@ -81,3 +81,5 @@ This software suite and its underlying architectural blueprints are proprietary 
 2. **Full Intellectual Property (IP) Buyout:** Total unencumbered ownership transfer, including source code exclusivity assignments and historical engineering documentation.
 
 *To initiate technical evaluation or review full compliance logs under NDA, please submit a formal corporate briefing request.*
+
+Official Corporate Desk Communication: selim09hossain@gmail.com , https://www.linkedin.com/in/selim-hossain-0a434b296/
